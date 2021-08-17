@@ -7,7 +7,27 @@ the date this repo was updated is 17th of august 2021
 bikeshare dataset
 
 ### Description
-Describe what your project is about and what it does
+the bikeshare project gives you a requested information. it asks you first what city are you going to explore, then asks you to filter it by month and day.
+
+Statistics Computed:
+(1)Popular times of travel:
+     most common month
+     most common day of week
+     most common hour of day
+
+(2)Popular stations and trip:
+     most common start station
+     most common end station
+     most common trip from start to end
+
+(3)Trip duration:
+     total travel time
+     average travel time
+
+(4)User info:
+     counts of each user type
+     counts of each gender (only available for NYC and Chicago)
+     earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
 Include the files used
